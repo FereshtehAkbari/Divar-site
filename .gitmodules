@@ -1,0 +1,3 @@
+[submodule "rjs-divar-api"]
+	path = rjs-divar-api
+	url = https://github.com/milad-azami/rjs-divar-api.git
